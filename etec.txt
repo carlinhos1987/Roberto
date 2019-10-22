@@ -1,0 +1,8 @@
+for (int i = 101; i < 1000; i--)
+            {
+
+                Console.WriteLine(" etec ");
+               
+
+            }
+            Console.ReadLine();
